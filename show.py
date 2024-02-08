@@ -1,7 +1,7 @@
 # python3 show.py Москва, ул. Шолохова, 20
 
 import sys
-from geo import get_coordinates, get_ll_span
+from geo import get_ll_span
 from map_pg import show_map
 
 
