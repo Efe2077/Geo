@@ -17,10 +17,10 @@
    <widget class="QLabel" name="q_map">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>190</y>
+      <x>20</x>
+      <y>140</y>
       <width>751</width>
-      <height>331</height>
+      <height>381</height>
      </rect>
     </property>
     <property name="text">
@@ -45,10 +45,10 @@
    <widget class="QWidget" name="">
     <property name="geometry">
      <rect>
-      <x>460</x>
+      <x>450</x>
       <y>10</y>
-      <width>301</width>
-      <height>112</height>
+      <width>311</width>
+      <height>111</height>
      </rect>
     </property>
     <layout class="QHBoxLayout" name="horizontalLayout">
